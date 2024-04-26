@@ -20,7 +20,6 @@ public class Usuario {
     smartTv.aumentarCanal();
     smartTv.dimunuirCanal();
 
-
   
     }
 }
